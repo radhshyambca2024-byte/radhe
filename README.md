@@ -108,4 +108,4 @@ The project successfully demonstrates the development of a machine-learning-base
 The system allows users to provide input through the web interface and receive predictions from the trained machine-learning model. Local testing verifies the functionality and integration of the major components.
 Overall, the project provides a complete workflow from data processing to model prediction and web application integration.
  ̶ ̶ ̶ ̶ ̶ ̶
-Conwart this text
+Conwart this text 
